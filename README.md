@@ -60,8 +60,7 @@ npm install
 npm run dev
 ```
 
-```
-md
+
 ## Notes
 -API volontairement simple
 -Pas de base de données (stockage en mémoire)
